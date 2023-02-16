@@ -1,3 +1,7 @@
+This is HW1 for CSE 582 and the code is from https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/word2vec/source-archive.zip
+All of the README after this line is from the original code.
+
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
