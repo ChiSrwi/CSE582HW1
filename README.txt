@@ -1,5 +1,6 @@
 This is HW1 for CSE 582 and the code is from https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/word2vec/source-archive.zip which is not the original. This repository just only for HW1.
 All of the README after this line is from the original code.
+I uploaded the screenshots of the output, the text file of output, the top 10 similar words with their distance, LICENSE, makefile, and all of the files which was changed like bash and word2vec.c (only comment).
 
 
 Tools for computing distributed representtion of words
