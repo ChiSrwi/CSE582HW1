@@ -1,0 +1,138 @@
+
+
+Word: cat  Position in vocabulary: 4496
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                              cats              0.677571
+                                               dog              0.616851
+                                             tabby              0.595538
+                                            feline              0.589993
+                                            kitten              0.553588
+                                           felines              0.535570
+                                           kittens              0.515718
+                                          doberman              0.510573
+                                               pet              0.497828
+                                            rabbit              0.490469
+                                               pug              0.477067
+                                             puppy              0.476521
+                                             moggy              0.475410
+                                           raccoon              0.474794
+                                         dachshund              0.473864
+                                              paws              0.472979
+                                             doggy              0.469486
+                                        pomeranian              0.468841
+                                        weimaraner              0.468553
+                                          declawed              0.466596
+                                           hamster              0.462004
+                                            piglet              0.460052
+                                          pekinese              0.457462
+                                           meowing              0.456312
+                                           cattery              0.449323
+                                             furry              0.447042
+                                         schnauzer              0.446720
+                                            dogʼs               0.445691
+                                          labrador              0.445681
+                                            animal              0.445240
+                                           lurcher              0.445135
+                                             pooch              0.444137
+                                         labradors              0.441913
+                                          miaowing              0.440876
+                                            monkey              0.440117
+                                             mangy              0.438917
+                                              mutt              0.437201
+                                              dogs              0.435056
+                                           terrier              0.433447
+                                             snake              0.430233
+Enter word or sentence (EXIT to break): she
+
+Word: she  Position in vocabulary: 66
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                               her              0.815704
+                                           herself              0.728209
+                                            mother              0.667445
+                                             woman              0.645918
+                                           husband              0.641624
+                                          daughter              0.627793
+                                                he              0.618699
+                                              hers              0.610717
+                                              girl              0.575752
+                                       grandmother              0.552680
+                                               mum              0.548532
+                                           someone              0.540693
+                                                me              0.539866
+                                               him              0.535393
+                                               mrs              0.521827
+                                         boyfriend              0.515392
+                                                my              0.513690
+                                             never              0.513138
+                                            sister              0.504407
+                                               mom              0.497252
+                                            friend              0.494877
+                                                 i              0.491682
+                                                ms              0.488381
+                                          teenager              0.477766
+                                              wife              0.477659
+                                              aunt              0.477470
+                                            father              0.459526
+                                            myself              0.451249
+                                               dad              0.451025
+                                            doctor              0.447900
+                                          pregnant              0.447121
+                                        schoolgirl              0.444385
+                                              baby              0.444016
+                                          waitress              0.443119
+                                        girlfriend              0.441319
+                                          somebody              0.439976
+                                              when              0.439219
+                                        babysitter              0.437334
+                                             child              0.436777
+                                             niece              0.433995
+Enter word or sentence (EXIT to break): like
+
+Word: like  Position in vocabulary: 96
+
+                                              Word       Cosine distance
+------------------------------------------------------------------------
+                                             weird              0.603640
+                                             maybe              0.587412
+                                            really              0.585070
+                                             stuff              0.571136
+                                             crazy              0.571072
+                                        everywhere              0.561565
+                                            pretty              0.549933
+                                              nice              0.548430
+                                             silly              0.545709
+                                              sort              0.545021
+                                              kind              0.544047
+                                               odd              0.537428
+                                            always              0.537187
+                                          nowadays              0.537050
+                                             likes              0.529849
+                                           imagine              0.522943
+                                               you              0.520671
+                                           strange              0.517567
+                                           anymore              0.516878
+                                           suppose              0.516470
+                                              seem              0.516170
+                                               bit              0.511899
+                                              cute              0.510361
+                                         basically              0.510132
+                                          actually              0.509882
+                                             scary              0.507683
+                                             guess              0.507041
+                                              look              0.504693
+                                               lot              0.501166
+                                               see              0.497929
+                                         something              0.496625
+                                              know              0.495789
+                                                so              0.495567
+                                           pretend              0.495493
+                                             sorts              0.492653
+                                               don              0.491062
+                                              okay              0.491022
+                                          remember              0.490524
+                                            wonder              0.488675
+                                       interesting              0.485889
