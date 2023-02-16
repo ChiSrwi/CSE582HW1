@@ -1,4 +1,4 @@
-This is HW1 for CSE 582 and the code is from https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/word2vec/source-archive.zip
+This is HW1 for CSE 582 and the code is from https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/word2vec/source-archive.zip which is not the original. This project just only for HW1.
 All of the README after this line is from the original code.
 
 
